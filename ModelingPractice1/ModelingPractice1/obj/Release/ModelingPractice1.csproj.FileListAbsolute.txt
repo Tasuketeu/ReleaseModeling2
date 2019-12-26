@@ -1,0 +1,26 @@
+E:\Загрузки\ModelingPractice1\ModelingPractice1\bin\Release\ModelingPractice1.exe.config
+E:\Загрузки\ModelingPractice1\ModelingPractice1\bin\Release\ModelingPractice1.exe
+E:\Загрузки\ModelingPractice1\ModelingPractice1\bin\Release\ModelingPractice1.pdb
+E:\Загрузки\ModelingPractice1\ModelingPractice1\bin\Release\Chart2DLib.dll
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.ResolveComReference.cache
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.Form1.resources
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.Properties.Resources.resources
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.GenerateResource.cache
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.CoreCompileInputs.cache
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.CopyComplete
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.exe
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.pdb
+E:\Загрузки\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csprojAssemblyReference.cache
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\bin\Release\ModelingPractice1.exe.config
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\bin\Release\ModelingPractice1.exe
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\bin\Release\ModelingPractice1.pdb
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\bin\Release\Chart2DLib.dll
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.ResolveComReference.cache
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.Form1.resources
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.Properties.Resources.resources
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.GenerateResource.cache
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.CoreCompileInputs.cache
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csproj.CopyComplete
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.exe
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.pdb
+E:\Университет\3 курс\Моделирование\Новая версия программы\ModelingPractice1\ModelingPractice1\obj\Release\ModelingPractice1.csprojAssemblyReference.cache
